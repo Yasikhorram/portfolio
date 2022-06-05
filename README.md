@@ -6,4 +6,4 @@ Yasaman's portfolio
 
 #### Simple Portfolio to showcase a few of my work.
 
-![screeshot of my profile](./images/profile.png)
+![screeshot of my profile](./html5up-helios/images/profile.png)
